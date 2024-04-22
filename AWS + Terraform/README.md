@@ -16,3 +16,4 @@ Application Loadbalaner
 ## Terraform Remote Backend
 
 The Terraform state file are managed by using the AWS S3 Bucket
+Application Load balancer load balances the http request between two Web Server 1 && 2
